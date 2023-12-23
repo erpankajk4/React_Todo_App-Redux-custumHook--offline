@@ -3,7 +3,8 @@ This is a simple Offline Todo application built using React and Redux for managi
 
 ## Hosted Link on Netlify
  https://react-offine-todo-app.netlify.app/ - Click the Link to Preview <br/>
- [![Netlify Status](https://api.netlify.com/api/v1/badges/96469977-c910-47ef-a39c-07f497d70685/deploy-status)](https://app.netlify.com/sites/react-offine-todo-app/deploys)<br/>
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/96469977-c910-47ef-a39c-07f497d70685/deploy-status)](https://app.netlify.com/sites/react-offine-todo-app/deploys) <br/>
+ 
 ![Screenshot 2023-12-23 061211](https://github.com/erpankajk4/React_Todo_App-Redux-custumHook--offline/assets/118353291/67f17891-df80-4c0e-b909-3af32c55095c)
 
 ## Features
