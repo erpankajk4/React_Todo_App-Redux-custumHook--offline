@@ -50,12 +50,16 @@ Your web app should now be running locally. Open your web browser and access it 
 ### Future Improvements
 Highlight potential enhancements or future functionalities that could be added to the project. For instance:
 
-**User Authentication:** Implement user accounts to save personalized todo lists.
-**Categories/Tags:** Allow users to categorize todos with tags or categories.
-**Drag-and-Drop Functionality:** Enable reordering of todos through drag-and-drop.
-**Responsive Design:** Enhance the UI for better mobile responsiveness.
+**User Authentication:** Implement user accounts to save personalized todo lists.<br>
+**Categories/Tags:** Allow users to categorize todos with tags or categories.<br>
+**Drag-and-Drop Functionality:** Enable reordering of todos through drag-and-drop.<br>
+**Responsive Design:** Enhance the UI for better mobile responsiveness.<br>
+
+## Card View:
 ![Screenshot 2023-12-23 061405](https://github.com/erpankajk4/React_Todo_App-Redux-custumHook--offline/assets/118353291/bfcb6b16-f4ef-4843-b764-3227277b0391)
+## Intial View
 ![Screenshot 2023-12-23 061513](https://github.com/erpankajk4/React_Todo_App-Redux-custumHook--offline/assets/118353291/aa124821-167d-414c-bd1b-bfc50804ff0a)
+## Mobile View
 ![Screenshot 2023-12-23 061848](https://github.com/erpankajk4/React_Todo_App-Redux-custumHook--offline/assets/118353291/b2d813fa-b45a-4f41-ad05-2d03f8c4ab3c)
 
 ### Folder Structure
